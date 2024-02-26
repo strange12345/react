@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Hello World!"
+    },
+    {
+      "id": "2",
+      "title": "JSON Server"
+    },
+    {
+      "id": "Hello World!",
+      "title": "This is a new post."
+    },
+    {
+      "id": "Hello World!",
+      "title": "This is a new post."
+    },
+    {
+      "id": "Hello World!",
+      "title": "This is a new post."
+    },
+    {
+      "id": "Hello World!",
+      "title": "This is a new post."
+    },
+    {
+      "id": "Hello World!",
+      "title": "This is a new post."
+    },
+    {
+      "id": "Hello World!",
+      "title": "This is a new post."
+    },
+    {
+      "id": "Hello World!",
+      "title": "This is a new post."
+    },
+    {
+      "id": "Hello World!",
+      "title": "This is a new post."
+    }
+  ]
+}
